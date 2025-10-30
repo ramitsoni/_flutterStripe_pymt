@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stripe_pymt
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# _flutterStripe_pymt
+This is Demo payment gatway for fultter Project for stripe
+>>>>>>> 66fb9ff4bd3d573567eca17f798882a0e6da4287
